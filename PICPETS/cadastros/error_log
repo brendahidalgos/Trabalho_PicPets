@@ -1,0 +1,2 @@
+[19-Jun-2018 13:09:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/cadastros/sairFotografo.php:2) in /home/picpets/public_html/cadastros/sairFotografo.php on line 4
+[19-Jun-2018 13:09:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/cadastros/sairFotografo.php:2) in /home/picpets/public_html/cadastros/sairFotografo.php on line 7

@@ -1,0 +1,70 @@
+[15-Jun-2018 20:37:04] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/picpets/public_html/pesq_endereco.php on line 117
+[15-Jun-2018 20:37:05] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/picpets/public_html/pesq_endereco.php on line 117
+[15-Jun-2018 20:37:06] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/picpets/public_html/pesq_endereco.php on line 117
+[15-Jun-2018 20:37:06] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/picpets/public_html/pesq_endereco.php on line 117
+[15-Jun-2018 20:37:39] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/picpets/public_html/pesq_endereco.php on line 119
+[15-Jun-2018 20:37:56] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/picpets/public_html/pesq_endereco.php on line 119
+[15-Jun-2018 20:37:57] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/picpets/public_html/pesq_endereco.php on line 119
+[15-Jun-2018 20:37:58] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/picpets/public_html/pesq_endereco.php on line 119
+[15-Jun-2018 20:38:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/picpets/public_html/pesq_fotos.php:8) in /home/picpets/public_html/pesq_fotos.php on line 19
+[15-Jun-2018 20:38:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/pesq_fotos.php:8) in /home/picpets/public_html/pesq_fotos.php on line 19
+[15-Jun-2018 20:38:25] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/pesq_fotos.php:8) in /home/picpets/public_html/pesq_fotos.php on line 34
+[15-Jun-2018 20:42:56] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 19
+[15-Jun-2018 20:42:56] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 19
+[15-Jun-2018 20:42:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 34
+[15-Jun-2018 20:44:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 19
+[15-Jun-2018 20:44:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 19
+[15-Jun-2018 20:44:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 34
+[15-Jun-2018 20:44:22] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 19
+[15-Jun-2018 20:44:22] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 19
+[15-Jun-2018 20:44:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 34
+[15-Jun-2018 20:44:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 33
+[15-Jun-2018 20:44:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 33
+[15-Jun-2018 20:44:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 33
+[15-Jun-2018 20:44:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 33
+[15-Jun-2018 20:44:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 33
+[15-Jun-2018 20:44:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 33
+[18-Jun-2018 08:38:28] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/picpets/public_html/pesq_endereco.php on line 118
+[18-Jun-2018 08:38:30] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/picpets/public_html/pesq_endereco.php on line 118
+[18-Jun-2018 09:29:22] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/sair_adm.php:2) in /home/picpets/public_html/sair_adm.php on line 4
+[18-Jun-2018 09:29:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/sair_adm.php:2) in /home/picpets/public_html/sair_adm.php on line 7
+[18-Jun-2018 09:30:29] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/picpets/public_html/sair_adm.php on line 5
+[18-Jun-2018 09:30:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/sair_adm.php:2) in /home/picpets/public_html/sair_adm.php on line 6
+[18-Jun-2018 09:35:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/sair_adm.php:2) in /home/picpets/public_html/sair_adm.php on line 3
+[18-Jun-2018 09:44:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/view1.php:8) in /home/picpets/public_html/view1.php on line 19
+[18-Jun-2018 09:44:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/view1.php:8) in /home/picpets/public_html/view1.php on line 19
+[18-Jun-2018 09:45:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/view1.php:8) in /home/picpets/public_html/view1.php on line 19
+[18-Jun-2018 09:45:26] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/view1.php:8) in /home/picpets/public_html/view1.php on line 19
+[18-Jun-2018 10:07:49] PHP Parse error:  syntax error, unexpected $end in /home/picpets/public_html/ProcessaloginAdm.php on line 167
+[18-Jun-2018 10:08:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/ProcessaloginAdm.php:8) in /home/picpets/public_html/ProcessaloginAdm.php on line 19
+[18-Jun-2018 10:22:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/ProcessaloginAdm.php:8) in /home/picpets/public_html/ProcessaloginAdm.php on line 51
+[18-Jun-2018 10:57:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/picpets/public_html/sair_adm.php:2) in /home/picpets/public_html/sair_adm.php on line 4
+[18-Jun-2018 10:57:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/picpets/public_html/sair_adm.php:2) in /home/picpets/public_html/sair_adm.php on line 4
+[18-Jun-2018 10:57:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/sair_adm.php:2) in /home/picpets/public_html/sair_adm.php on line 7
+[18-Jun-2018 11:05:49] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/picpets/public_html/acao_contato.php on line 119
+[18-Jun-2018 11:07:03] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/picpets/public_html/acao_contato.php on line 119
+[18-Jun-2018 11:07:05] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/picpets/public_html/acao_contato.php on line 119
+[18-Jun-2018 11:14:17] PHP Parse error:  syntax error, unexpected '<' in /home/picpets/public_html/pesq_documentos.php on line 125
+[18-Jun-2018 11:14:18] PHP Parse error:  syntax error, unexpected '<' in /home/picpets/public_html/pesq_documentos.php on line 125
+[18-Jun-2018 11:19:20] PHP Parse error:  syntax error, unexpected '}' in /home/picpets/public_html/pesq_documentos.php on line 143
+[18-Jun-2018 11:20:11] PHP Parse error:  syntax error, unexpected '}' in /home/picpets/public_html/pesq_documentos.php on line 140
+[18-Jun-2018 11:20:12] PHP Parse error:  syntax error, unexpected '}' in /home/picpets/public_html/pesq_documentos.php on line 140
+[18-Jun-2018 11:20:12] PHP Parse error:  syntax error, unexpected '}' in /home/picpets/public_html/pesq_documentos.php on line 140
+[18-Jun-2018 11:20:13] PHP Parse error:  syntax error, unexpected '}' in /home/picpets/public_html/pesq_documentos.php on line 140
+[18-Jun-2018 11:51:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 33
+[18-Jun-2018 11:52:05] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 33
+[18-Jun-2018 11:52:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 33
+[18-Jun-2018 11:52:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/picpets/public_html/alterar_senha.php:8) in /home/picpets/public_html/alterar_senha.php on line 33
+[18-Jun-2018 11:53:04] PHP Parse error:  syntax error, unexpected '}' in /home/picpets/public_html/alterar_senha.php on line 184
+[18-Jun-2018 11:55:20] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/picpets/public_html/alterar_senha.php on line 138
+[18-Jun-2018 11:56:50] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/picpets/public_html/alterar_senha.php on line 137
+[18-Jun-2018 11:57:43] PHP Parse error:  syntax error, unexpected T_ELSE in /home/picpets/public_html/alterar_senha.php on line 144
+[18-Jun-2018 11:58:00] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/picpets/public_html/alterar_senha.php on line 137
+[18-Jun-2018 11:58:14] PHP Parse error:  syntax error, unexpected ':' in /home/picpets/public_html/alterar_senha.php on line 137
+[18-Jun-2018 11:59:42] PHP Parse error:  syntax error, unexpected ':' in /home/picpets/public_html/alterar_senha.php on line 137
+[18-Jun-2018 11:59:52] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/picpets/public_html/alterar_senha.php on line 138
+[18-Jun-2018 12:00:50] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/picpets/public_html/alterar_senha.php on line 137
+[18-Jun-2018 12:01:29] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/picpets/public_html/alterar_senha.php on line 133
+[18-Jun-2018 12:24:23] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/picpets/public_html/alterar_senha.php on line 133
+[19-Jun-2018 08:44:28] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/picpets/public_html/pesq_documentos.php on line 124
+[19-Jun-2018 08:51:19] PHP Parse error:  syntax error, unexpected ';' in /home/picpets/public_html/pesq_documentos.php on line 124
